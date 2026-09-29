@@ -36,15 +36,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NocturneWayfarer&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=50C878&icon_color=009999&text_color=E0E0E0" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NocturneWayfarer&layout=compact&hide_border=true&bg_color=0B0F0E&title_color=50C878&text_color=E0E0E0" />
-</p>
-
----
-
 <p align="center">
   <em>Wandering through code, one night at a time.</em>
 </p>
