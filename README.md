@@ -1,5 +1,3 @@
-<h1 align="center">Night Wayfarer</h1>
-
 <p align="center">
   <img src="./assets/banner.svg" alt="Night Wayfarer" width="100%" />
 </p>
