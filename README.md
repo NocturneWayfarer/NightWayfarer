@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/TypeScript-0B0F0E?style=flat-square&logo=typescript&logoColor=20B2AA" />
   <img src="https://img.shields.io/badge/Node.js-0B0F0E?style=flat-square&logo=nodedotjs&logoColor=50C878" />
   <img src="https://img.shields.io/badge/Python-0B0F0E?style=flat-square&logo=python&logoColor=8A2BE2" />
-  <img src="https://img.shields.io/badge/CSS-0B0F0E?style=flat-square&logo=css3&logoColor=20B2AA" />
+  <img src="https://img.shields.io/badge/CSS-0B0F0E?style=flat-square&logo=css&logoColor=20B2AA" />
   <img src="https://img.shields.io/badge/Docker-0B0F0E?style=flat-square&logo=docker&logoColor=6A5ACD" />
   <img src="https://img.shields.io/badge/Git-0B0F0E?style=flat-square&logo=git&logoColor=E0E0E0" />
 </p>
