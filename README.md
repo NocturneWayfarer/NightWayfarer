@@ -1,6 +1,10 @@
 <h1 align="center">Night Wayfarer</h1>
 
 <p align="center">
+  <img src="./assets/banner.svg" alt="Night Wayfarer" width="100%" />
+</p>
+
+<p align="center">
   <em>Backend & Frontend developer. Reliable systems, clean interfaces.</em>
 </p>
 
