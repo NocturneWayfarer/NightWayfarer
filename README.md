@@ -34,15 +34,13 @@
   <img src="https://img.shields.io/badge/Git-0B0F0E?style=flat-square&logo=git&logoColor=E0E0E0" />
 </p>
 
-> Замени список на свои реальные технологии.
-
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Night-Wayfarer&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=50C878&icon_color=009999&text_color=E0E0E0" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Night-Wayfarer&layout=compact&hide_border=true&bg_color=0B0F0E&title_color=50C878&text_color=E0E0E0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NocturneWayfarer&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=50C878&icon_color=009999&text_color=E0E0E0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NocturneWayfarer&layout=compact&hide_border=true&bg_color=0B0F0E&title_color=50C878&text_color=E0E0E0" />
 </p>
 
 ---
